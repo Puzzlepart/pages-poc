@@ -1,0 +1,82 @@
+{
+    "WebSettings": {
+        "WelcomePage": "SitePages/Hjemmeside.aspx"
+    },
+    "ClientSidePages": [
+        {
+            "Name": "Hjemmeside.aspx",
+            "Title": "Hjem",
+            "PageLayoutType": "Home",
+            "CommentsDisabled": true,
+            "Sections": [
+                {
+                    "Columns": [
+                        {
+                            "Factor": 8,
+                            "Controls": [
+                                {
+                                    "Id": "4449d3dc-fa58-4982-b87c-5a893114e7b7",
+                                    "Properties": {
+                                        "description": "",
+                                        "phaseSubTextProperty": "",
+                                        "phaseField": "Fase",
+                                        "confirmPhaseChange": true,
+                                        "currentPhaseViewName": "Gjeldende fase",
+                                        "gutter": 15,
+                                        "fontSize": 13
+                                    }
+                                },
+                                {
+                                    "Id": "f92bf067-bc19-489e-a556-7fe95f508720",
+                                    "Properties": {
+                                        "isDocumentLibrary": false,
+                                        "selectedListId": "{listid:Prosjektleveranser}",
+                                        "webpartHeightKey": 4
+                                    }
+                                },
+                                {
+                                    "Id": "f92bf067-bc19-489e-a556-7fe95f508720",
+                                    "Properties": {
+                                        "isDocumentLibrary": false,
+                                        "selectedListId": "{listid:Milepæler}",
+                                        "webpartHeightKey": 4
+                                    }
+                                },
+                                {
+                                    "Id": "39c4c1c2-63fa-41be-8cc2-f6c0b49b253d",
+                                    "Properties": {
+                                        "title": "Oppgaver",
+                                        "isFullScreen": false,
+                                        "plannerViewMode": "bucketchart"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "Factor": 4,
+                            "Controls": [
+                                {
+                                    "Id": "b8bec0be-2354-443d-a3ca-24b36e8ea7dc",
+                                    "Properties": {
+                                        "title": "Prosjektinformasjon",
+                                        "statusReportsCount": 0,
+                                        "statusReportsHeader": "Prosjektstatus",
+                                        "filterField": "GtShowFieldFrontpage"
+                                    }
+                                },
+                                {
+                                    "Id": "a5df8fdf-b508-4b66-98a6-d83bc2597f63",
+                                    "Properties": {
+                                        "title": "Prosjektnyheter",
+                                        "showChrome": true,
+                                        "compactMode": true
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
