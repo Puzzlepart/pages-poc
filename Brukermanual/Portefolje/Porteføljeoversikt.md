@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portefoljeoversikt
+title: Porteføljeoversikt
 nav_order: 2
 nav_exclude: false
 has_children: false
