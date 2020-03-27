@@ -6,9 +6,9 @@ search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 
 # Aux links for the upper right navigation
-## aux_links:
-##  "Just the Docs on GitHub":
-##    - "//github.com/pmarsceill/just-the-docs"
+ aux_links:
+  "Prosjektportalen 365 på GitHub":
+    - "//github.com/Puzzlepart/prosjektportalen365"
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
