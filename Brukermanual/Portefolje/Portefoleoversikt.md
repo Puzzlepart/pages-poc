@@ -5,8 +5,9 @@ nav_order: 3
 nav_exclude: false
 
 has_children: false
-parent: Innhold
+parent: Portefølje
 # grand_parent: UI Components
 ---
 
-# Another page
+# Porteføljeoversikten
+Denne siden skal ....
