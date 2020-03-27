@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Forsiden
-nav_order: 5
+nav_order: 1
 nav_exclude: false
 
-has_children: true
+has_children: false
 # parent: UI Components
 # grand_parent: UI Components
 ---
 
-# Portefølje innhold
+# Prosjekt forside

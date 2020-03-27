@@ -4,7 +4,7 @@ title: Innhold
 nav_order: 2
 nav_exclude: false
 
-has_children: true
+has_children: false
 # parent: UI Components
 # grand_parent: UI Components
 ---
