@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Hjem-siden
+title: Endre hjem-siden
 nav_order: 10
 nav_exclude: false
 has_children: false
-parent: Q&A
+parent: Spørsmål og Svar
 ---
 
 
