@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q&A
+title: Spørsmål og Svar
 nav_order: 100
 nav_exclude: false
 has_children: true
