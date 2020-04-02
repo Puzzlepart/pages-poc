@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Struktur
-nav_order: 20
+title: Q&A
+nav_order: 100
 nav_exclude: false
 has_children: true
 ---
 
-# Oppbygning av løsningen
+# Spørsmål og svar
