@@ -1,38 +1,32 @@
-## Hjem
-## Welcome to GitHub Pages
+# Velkommen til:
+## brukermanualen for Prosjektportalen365
 
-You can use the [editor on GitHub](https://github.com/Puzzlepart/pages-poc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-Puzzlepart
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Brukermanualen vil til enhver tid gjenspeile siste gjeldende versjon av Prosjektportalen365 som du finner på Github.
 
-### Markdown
+Prosjektportalen for Office 365  [![version](https://img.shields.io/badge/version-1.2.0-yellow.svg)](https://semver.org)
+=================
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prosjektportalen for Office 365 er et prosjektstyringsverktøy for Office 365 basert på <a href="http://prosjektveiviseren.no">Prosjektveiviseren</a>. <a href="http://www.puzzlepart.com/prosjektportalen-365/">Mer informasjon på Puzzleparts nettsider.</a>
 
-```markdown
-Syntax highlighted code block
+## Hva er Prosjektportalen for Office 365? ##
 
-# Header 1
-## Header 2
-### Header 3
+Prosjektportalen for Office 365 er bygget av <a href="http://www.puzzlepart.com">Puzzlepart AS</a>. Løsningen inneholder Office 365 og SharePoint-tilpasninger som til sammen utgjør et prosjektstyringsverktøy. Det blir satt opp en porteføljeside der en får en oversikt over prosjekter og kan opprette nye prosjektrom. Hvert prosjektområde opprettes som en Office 365 gruppe og det settes opp en del lister, en del standardelementer og logikk for å gjennomføre et prosjekt etter prosjektveiviserens modell. Prosjektveiviseren er Difis anbefalte prosjektmodell for gjennomføring av digitaliseringsprosjekter i offentlige virksomheter.
 
-- Bulleted
-- List
+Prosjektportalen ble i sin tid utviklet for Asker kommune og Kommit. Versjonen som her foreligger er utviklet av Puzzlepart basert på de samme prinsippene som den opprinnelige versjonen.
 
-1. Numbered
-2. List
+## Installering ##
 
-**Bold** and _Italic_ and `Code` text
+Prosjektportalen 365 kan lastes ned <a href="https://github.com/Puzzlepart/prosjektportalen365/releases/latest">herfra</a>. Mer informasjon om løsningen, konfigurasjon, installasjon og feilsøking finner du på <a href="https://github.com/Puzzlepart/prosjektportalen365/wiki">wiki-sidene til Prosjektportalen 365</a>.
 
-[Link](url) and ![Image](src)
-```
+Vi gjør oppmerksom at vi logger hver installasjon som blir kjørt av skriptet til en sentral oversikt. Dette gjøres for å ha kontroll på installasjonshyppighet og hvordan installasjoner gjøres. Informasjonen brukes kun for å forbedre løsningen.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Kontakt ##
 
-### Jekyll Themes
+Har du spørsmål om Prosjektportalen for Office 365, behov for bistand til installasjon av løsningen eller muligheter for videreutvikling og spesialtilpasninger, ta kontakt med <a href="mailto:prosjektportalen@puzzlepart.com">Prosjektportalen @ Puzzlepart</a>. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Puzzlepart/pages-poc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For tekniske og funksjonelle spørsmål, ta kontakt med <a href="mailto:jan.lindset@puzzlepart.com">Jan Lindset</a>. Vi gjør oppmerksom på at eventuell bistand vil være en fakturerbar tjeneste. 
 
-### Support or Contact
+## Maintainers ##
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tarjei Ormestøyl (tarjeieo@puzzlepart.com)
+Ole Martin Pettersen (olemp@puzzlepart.com)
