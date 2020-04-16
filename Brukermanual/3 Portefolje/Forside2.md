@@ -22,7 +22,7 @@ På forsiden får du en oversikt over tilgjengelige prosjekter med nøkkelinfo o
 
 I tillegg er det et område for lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere som har tilgang til porteføljenivået.
 
-![Portefølje forside](https://github.com/Puzzlepart/pages-poc/blob/master/Brukermanual/3%20Portefolje/PortfolioFrontpage.png)
----
+![Portefølje forside](https://raw.githubusercontent.com/Puzzlepart/pages-poc/master/Brukermanual/3%20Portefolje/PortfolioFrontpage.png)
+
+
 ![Portefølje forside](PortfolioFrontpage.png)
----
