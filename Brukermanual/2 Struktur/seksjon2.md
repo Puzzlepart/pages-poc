@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Struktur
+title: Struktur-test
 nav_order: 20
 nav_exclude: false
 has_children: true
